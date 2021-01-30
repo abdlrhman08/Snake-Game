@@ -1,2 +1,2 @@
 # Very Basic Snake Game
-My first game made with C++ and SFML library
+Snake game made with C++ and SFML library
